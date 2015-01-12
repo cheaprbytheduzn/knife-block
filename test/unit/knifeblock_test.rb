@@ -4,7 +4,7 @@
 
 require 'chef/knife'
 require './lib/chef/knife/block'
-# require 'test/unit'
+require 'test/unit'
 require 'fileutils'
 
 class TestGreenAndSecureModule < Test::Unit::TestCase
